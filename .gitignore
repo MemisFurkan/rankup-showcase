@@ -1,0 +1,11 @@
+# Documentation-only showcase: ignore everything unless explicitly allowed.
+*
+!/.gitignore
+!/README.md
+!/README_TR.md
+!/docs/
+!/docs/architecture-overview.md
+!/screenshots/
+!/screenshots/README.md
+
+# Ignore rules do not remove tracked files. Review every future addition.
